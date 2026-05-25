@@ -93,7 +93,6 @@ Air transportation had the highest average shipping costs, while sea transportat
 ### Dashboard Preview
 
 ![Dashboard](images/Supply_Chain_Dashboard.png)
-
 ---
 
 ## Business Recommendations
